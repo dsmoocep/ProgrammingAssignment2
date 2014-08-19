@@ -3,7 +3,7 @@
 ## sets a matrix (setmatrix)
 ## gets a matrix (getmatrix)
 ## sets the inverse of the matrix (setinverse)
-## gets gets the inverse of the matrix (getinverse)
+## gets the inverse of the matrix (getinverse)
 ##
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
